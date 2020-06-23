@@ -1,7 +1,8 @@
 {
   "name": "@xobotyi/is-plain-obj",
-  "description": "Check if given value is an object",
+  "description": "Check if given value is a plain object",
   "keywords": [
+    "plain",
     "object",
     "check",
     "is",
