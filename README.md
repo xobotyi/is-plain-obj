@@ -1,27 +1,27 @@
 <div align="center">
   <h1>@xobotyi/is-plain-obj</h1>
-  <p>Check if given value is an object</p>
+  <p>Check if given value is a plain object</p>
   <p>
       <a href="https://travis-ci.org/xobotyi/is-plain-obj">
-          <img src="https://flat.badgen.net/travis/xobotyi/is-plain-obj?v=1" alt="Build status"/>
+          <img src="https://flat.badgen.net/travis/xobotyi/is-plain-obj?v=2" alt="Build status"/>
       </a>
       <a href="https://www.npmjs.com/package/@xobotyi/is-plain-obj">
-          <img src="https://flat.badgen.net/npm/v/@xobotyi/is-plain-obj?v=1" alt="NPM version"/>
+          <img src="https://flat.badgen.net/npm/v/@xobotyi/is-plain-obj?v=2" alt="NPM version"/>
       </a>
       <a href="https://www.npmjs.com/package/@xobotyi/is-plain-obj">
-          <img src="https://flat.badgen.net/npm/dw/@xobotyi/is-plain-obj?v=1" alt="NPM weekly downloads"/>
+          <img src="https://flat.badgen.net/npm/dw/@xobotyi/is-plain-obj?v=2" alt="NPM weekly downloads"/>
       </a>
       <a href="https://www.npmjs.com/package/@xobotyi/is-plain-obj">
-          <img src="https://flat.badgen.net/npm/license/@xobotyi/is-plain-obj?v=1" alt="License"/>
+          <img src="https://flat.badgen.net/npm/license/@xobotyi/is-plain-obj?v=2" alt="License"/>
       </a>
       <a href="https://www.npmjs.com/package/@xobotyi/is-plain-obj">
-          <img src="https://flat.badgen.net/npm/types/@xobotyi/is-plain-obj?v=1" alt="Types definition"/>
+          <img src="https://flat.badgen.net/npm/types/@xobotyi/is-plain-obj?v=2" alt="Types definition"/>
       </a>
       <a href="https://www.npmjs.com/package/@xobotyi/is-plain-obj">
-          <img src="https://flat.badgen.net/codacy/grade/52b6faed5d7c4d4bbcaa1ec4359bbc78?v=1" alt="Codacy Code Grade"/>
+          <img src="https://flat.badgen.net/codacy/grade/52b6faed5d7c4d4bbcaa1ec4359bbc78?v=2" alt="Codacy Code Grade"/>
       </a>
       <a href="https://www.npmjs.com/package/@xobotyi/is-plain-obj">
-          <img src="https://flat.badgen.net/codacy/coverage/52b6faed5d7c4d4bbcaa1ec4359bbc78?v=1" alt="Tests LOC"/>
+          <img src="https://flat.badgen.net/codacy/coverage/52b6faed5d7c4d4bbcaa1ec4359bbc78?v=2" alt="Tests LOC"/>
       </a>
     </p>
 </div>
@@ -62,3 +62,10 @@ isObj(Object.create(null)); // => true
 
 isObj(new (class{})); // => true
 ```
+
+---
+
+### Related projects
+
+- [cnbuilder](https://www.npmjs.com/package/cnbuilder) - Yet another classname string builder (the fastest one)
+- [@xobotyi/is-obj](https://www.npmjs.com/package/@xobotyi/is-obj) - Check if given value is an object
