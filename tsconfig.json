@@ -1,0 +1,26 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "alwaysStrict": true,
+    "noImplicitAny": false,
+    "noUnusedParameters": true,
+    "noUnusedLocals": true,
+    "strictNullChecks": true,
+    "removeComments": false,
+    "module": "CommonJS",
+    "moduleResolution": "Node",
+    "target": "es5",
+    "sourceMap": false,
+    "outDir": "/dist",
+    "lib": [
+      "ESNext"
+    ]
+  },
+  "include": [
+    "src"
+  ],
+  "exclude": [
+    "node_modules",
+    "dist"
+  ]
+}
