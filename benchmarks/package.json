@@ -8,6 +8,7 @@
     "benchmarks": "yarn build && node ./dist/index.js"
   },
   "dependencies": {
+    "@xobotyi/is-plain-obj": "^1.0.1",
     "benchmark": "^2.1.4",
     "browserify": "^16.5.1",
     "is-plain-obj": "^2.0.0",
