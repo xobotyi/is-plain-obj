@@ -1,5 +1,6 @@
 import { run } from './run';
 import { isPlainObject as localIsPlainObject } from '../..';
+// eslint-disable-next-line import/order
 import isPlainObject = require('is-plain-obj');
 
 const showRef = false;

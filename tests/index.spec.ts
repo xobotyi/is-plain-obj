@@ -24,6 +24,7 @@ describe('isPlainObject', () => {
     expect(isPlainObject(new Object())).toBe(true);
   });
 
+  // eslint-disable-next-line func-names
   it('should return false on non-plain objects and not-objects', function () {
     expect(isPlainObject(['foo', 'bar'])).toBe(false);
     expect(isPlainObject(new Foo(1))).toBe(false);
