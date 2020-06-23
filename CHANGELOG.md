@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/xobotyi/is-plain-obj/compare/v1.0.0...v1.0.1) (2020-06-23)
+
+
+### Bug Fixes
+
+* dependency type hysky -> husky ([89b2267](https://github.com/xobotyi/is-plain-obj/commit/89b2267e1b5cca4be9f848a9fbd01f47a54a913b))
+
 # 1.0.0 (2020-06-23)
 
 
