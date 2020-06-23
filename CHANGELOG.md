@@ -1,3 +1,11 @@
+# [1.1.0](https://github.com/xobotyi/is-plain-obj/compare/v1.0.1...v1.1.0) (2020-06-23)
+
+
+### Features
+
+* **benchmarks:** simplify tests and add npm version to compare. ([5a93760](https://github.com/xobotyi/is-plain-obj/commit/5a937608dcd40d22ec0f4eb4e7f3934ee2c6155b))
+* add related projects block to readme and fix description. ([aff3f60](https://github.com/xobotyi/is-plain-obj/commit/aff3f60be718a8deaf95975791af77d9d9df3b1b))
+
 ## [1.0.1](https://github.com/xobotyi/is-plain-obj/compare/v1.0.0...v1.0.1) (2020-06-23)
 
 
