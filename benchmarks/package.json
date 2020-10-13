@@ -11,7 +11,7 @@
     "@xobotyi/is-plain-obj": "^1.0.1",
     "benchmark": "^2.1.4",
     "browserify": "^16.5.1",
-    "is-plain-obj": "^2.0.0",
+    "is-plain-obj": "^3.0.0",
     "rimraf": "^3.0.2"
   },
   "devDependencies": {}
